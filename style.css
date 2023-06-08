@@ -1,5 +1,29 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
 header{
 background-color: #424e61;
 color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+
 
 }
+
+.cabeçalho-imagem{
+width: 18%;
+
+
+}
+.cabeçalho-lista-item{
+display: inline-block;
+font-size: 24px;
+margin: 0 16px;
+
+}
+
+
